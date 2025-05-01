@@ -1,10 +1,4 @@
-+16
--13
 
-
-Original file line number	Diff line number	Diff line change
-@@ -1,16 +1,19 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Madhawa Diyanth Swarnakantha</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanaka</h3>
 
