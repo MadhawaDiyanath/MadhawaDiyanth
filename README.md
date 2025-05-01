@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Madhawa Diyanth Swarnakantha</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanaka</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MadhawaDiyanth&label=Profile%20views&color=0e75b6&style=flat" alt="MadhawaDiyanth" /> </p>
 - 🌱 I’m currently learning **Java**
 - 💬 Ask me about **Java**
 - 📫 How to reach me **it23844506@my.sliit.lk**
